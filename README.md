@@ -6,7 +6,7 @@ npm create astro@latest -- --template basics
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-## 🚀 Project Structure Update
+## 🚀 Project Structure Update 2
 
 Inside of your Astro project, you'll see the following folders and files:
 
